@@ -11,3 +11,8 @@ The binary message translates to a URL:
 >find.foo/2023GoogleCerts
 
 The URL brought me a fun challenge.  
+  
+### intro.md  
+describes the overall challenge  
+  
+### each challenge has an MD file with the description and a PY file with the solution
