@@ -1,5 +1,5 @@
-# Google Professional Data Analytics Certificate Easter Egg
-#### I found this challenge after completing the Google Data Analyst certification:
+# Google Data Analytics Easter Egg
+I found this challenge after completing the Google Data Analyst certification:
 
 >_Want to solve a puzzle from Google?_  
 _We invite you to stretch your skills in a new way. This puzzle isn't part of passing the certificate or getting a job, 
@@ -9,12 +9,12 @@ just a fun way to challenge yourself._
 
 The binary message translates to a URL:  
 >find.foo/2023GoogleCerts
-
+  
 The URL brought me a fun challenge.  
   
-### intro.md  
+## intro.md  
 describes the overall challenge  
   
-### each challenge has an MD file with the description and a PY file with the solution
+## each challenge has an markdown file with the description and a PY file with the solution
   
-* Thanks to saraansh https://stackoverflow.com/users/7916040/saraansh for the first part of the level2 challenge.
+- Thanks to [saraansh](https://stackoverflow.com/users/7916040/saraansh) for the first part of the level2 challenge.
